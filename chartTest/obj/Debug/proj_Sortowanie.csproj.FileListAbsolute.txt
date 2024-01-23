@@ -1,0 +1,10 @@
+C:\Users\kacpe\Documents\C#\Projekt 20_12\chartTest\obj\Debug\proj_Sortowanie.csproj.AssemblyReference.cache
+C:\Users\kacpe\Documents\C#\Projekt 20_12\chartTest\obj\Debug\chartTest.Properties.Resources.resources
+C:\Users\kacpe\Documents\C#\Projekt 20_12\chartTest\obj\Debug\proj_Sortowanie.csproj.GenerateResource.cache
+C:\Users\kacpe\Documents\C#\Projekt 20_12\chartTest\obj\Debug\proj_Sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Documents\C#\Projekt 20_12\chartTest\obj\Debug\chartTest.exe
+C:\Users\kacpe\Documents\C#\Projekt 20_12\chartTest\obj\Debug\chartTest.pdb
+C:\Users\kacpe\Documents\C#\Projekt 20_12\chartTest\bin\Debug\chartTest.exe.config
+C:\Users\kacpe\Documents\C#\Projekt 20_12\chartTest\bin\Debug\chartTest.exe
+C:\Users\kacpe\Documents\C#\Projekt 20_12\chartTest\bin\Debug\chartTest.pdb
+C:\Users\kacpe\Documents\C#\Projekt 20_12\chartTest\obj\Debug\proj_Sortowanie.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\kacpe\Desktop\chartTest-master\chartTest-master\chartTest\bin\Debug\chartTest.exe.config
+C:\Users\kacpe\Desktop\chartTest-master\chartTest-master\chartTest\bin\Debug\chartTest.exe
+C:\Users\kacpe\Desktop\chartTest-master\chartTest-master\chartTest\bin\Debug\chartTest.pdb
+C:\Users\kacpe\Desktop\chartTest-master\chartTest-master\chartTest\obj\Debug\chartTest.csproj.AssemblyReference.cache
+C:\Users\kacpe\Desktop\chartTest-master\chartTest-master\chartTest\obj\Debug\chartTest.Form1.resources
+C:\Users\kacpe\Desktop\chartTest-master\chartTest-master\chartTest\obj\Debug\chartTest.Properties.Resources.resources
+C:\Users\kacpe\Desktop\chartTest-master\chartTest-master\chartTest\obj\Debug\chartTest.csproj.GenerateResource.cache
+C:\Users\kacpe\Desktop\chartTest-master\chartTest-master\chartTest\obj\Debug\chartTest.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Desktop\chartTest-master\chartTest-master\chartTest\obj\Debug\chartTest.exe
+C:\Users\kacpe\Desktop\chartTest-master\chartTest-master\chartTest\obj\Debug\chartTest.pdb
